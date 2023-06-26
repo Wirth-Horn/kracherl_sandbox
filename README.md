@@ -100,10 +100,12 @@ Und diese umfassen sogar mehrere Zeilen.
 
 ## besondere Zeichen
 
-A & B \
-&alpha; \
+```
+A & B
+&alpha;
 1 < 2
 <p>
+```
 
 ## Maskierung
 
