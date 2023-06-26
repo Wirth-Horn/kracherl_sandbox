@@ -16,15 +16,12 @@ Spielwiese zum Testen von Markdown
 ## Textstile
 
 *Kursiver Text*
-
 _Kursiver Text_
 
 **Fetter Text**
-
 __Fetter Text__
 
 ***Kursiver und fetter Text***
-
 ___Kursiver und fetter Text___
 
 ~~Dieser Text ist durchgestrichen.~~ Dieser aber nicht.
@@ -61,11 +58,13 @@ Das ist `code`.
 
 ``Das ist alles `code`.``
 
-``Hier steht noch Fließtext.
-  Dies ist die erste Zeile des Code-Blocks.
-     Die zweite Zeile ist noch weiter eingerückt.
-  Dies ist eine weitere Zeile des Code-Blocks.``
+
+Hier steht noch Fließtext.
+	Dies ist die erste Zeile des Code-Blocks.
+		Die zweite Zeile ist noch weiter eingerückt.
+	Dies ist eine weitere Zeile des Code-Blocks.
 Hier beginnt wieder Fließtext.
+
 
 ```html
 <html>
