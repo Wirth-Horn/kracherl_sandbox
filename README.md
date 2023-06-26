@@ -102,7 +102,7 @@ Und diese umfassen sogar mehrere Zeilen.
 
 A & B \
 &alpha; \
-1 < 2 \
+1 < 2
 <p>
 
 ## Maskierung
