@@ -15,16 +15,13 @@ Spielwiese zum Testen von Markdown
 
 ## Textstile
 
-*Kursiver Text*
-
+*Kursiver Text*\
 _Kursiver Text_
 
-**Fetter Text**
-
+**Fetter Text**\
 __Fetter Text__
 
-***Kursiver und fetter Text***
-
+***Kursiver und fetter Text***\
 ___Kursiver und fetter Text___
 
 ~~Dieser Text ist durchgestrichen.~~ Dieser aber nicht.
@@ -103,9 +100,9 @@ Und diese umfassen sogar mehrere Zeilen.
 
 ## besondere Zeichen
 
-A & B
-&alpha;
-1 < 2
+A & B \
+&alpha; \
+1 < 2 \
 <p>
 
 ## Maskierung
