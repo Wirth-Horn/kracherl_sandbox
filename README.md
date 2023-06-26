@@ -16,12 +16,15 @@ Spielwiese zum Testen von Markdown
 ## Textstile
 
 *Kursiver Text*
+
 _Kursiver Text_
 
 **Fetter Text**
+
 __Fetter Text__
 
 ***Kursiver und fetter Text***
+
 ___Kursiver und fetter Text___
 
 ~~Dieser Text ist durchgestrichen.~~ Dieser aber nicht.
@@ -106,5 +109,17 @@ A & B
 <p>
 
 ## Maskierung
+
+	Asterisk: *
+	Bindestrich:
+	Unterstrich: _
+	Runde Klammern: ()
+	Eckige Klammern: []
+	Geschweifte Klammern: {}
+	Punkt: .
+	Ausrufezeichen: !
+	Raute: #
+	Gravis: `
+	Backslash: \
 
 Die ist ein \*Beispiel mit Sternchen\*.
